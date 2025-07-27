@@ -36,9 +36,9 @@ Gosto de unir lógica, criatividade e propósito para criar projetos que tenham 
 
 | Linguagens       | Frameworks/Libraries         | Ferramentas/Plataformas      |
 |------------------|------------------------------|-------------------------------|
-| Python 🐍        | Django, Flask, Pandas, NumPy | Git, VSCode, Linux, Streamlit |
+| Python 🐍        | Django, Flask, Pandas, NumPy | Git, VSCode, Streamlit |
 | SQL              | Django ORM, SQLAlchemy       | Power BI, n8n, Jupyter        |
-| HTML/CSS/JS      | Bootstrap, Tailwind          | GitHub, ChatGPT 😄            |
+| HTML/CSS/      | Bootstrap, Tailwind          | GitHub, ChatGPT 😄            |
 
 ---
 
