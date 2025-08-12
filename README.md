@@ -1,38 +1,55 @@
-# 👋 Olá, eu sou Wesley Souza  
+<h1 align="center">🌟 Sobre mim</h1>
 
-💻 **Desenvolvedor Full Stack Python** | 🌐 **Engenharia de Software** | 📊 **Ciência de Dados e IA**  
+<p>
+Sou <strong>Wesley Souza</strong>, estudante de Engenharia de Software e apaixonado por transformar ideias em soluções inteligentes que geram impacto real.<br>
+Acredito que código é mais do que tecnologia — é uma ferramenta para simplificar processos, economizar tempo e resolver problemas que importam.
+</p>
 
----
+<p>
+Meu foco está em unir análise de dados, automação e inteligência artificial para criar soluções que sejam eficientes e acessíveis. Não basta apenas programar: quero criar algo que faça diferença.
+</p>
 
-## 🚀 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em **desenvolvimento web**, **automação de processos** e **análise de dados**.  
-Meu objetivo é criar soluções inteligentes e eficientes que transformem ideias em resultados concretos.
+<h2>🚀 Áreas de atuação</h2>
+<ul>
+  <li><strong>Python Full Stack</strong>: criação de soluções completas e escaláveis</li>
+  <li><strong>Ciência de Dados (iniciante)</strong>: exploração, análise e visualização de dados</li>
+  <li><strong>Engenharia de Dados</strong>: tratamento e integração de dados para gerar valor</li>
+  <li><strong>Automação e IA</strong>: criação de processos inteligentes que economizam tempo</li>
+  <li><strong>Java</strong>: desenvolvimento de aplicações e serviços robustos</li>
+</ul>
 
----
+<h2>🧠 Tecnologias e ferramentas</h2>
+<ul>
+  <li><strong>Linguagens</strong>: Python 🐍 | Java ☕ | SQL</li>
+  <li><strong>Bibliotecas & Frameworks</strong>: Pandas, NumPy, SQLAlchemy, Spring Boot (em estudo)</li>
+  <li><strong>Ferramentas</strong>: Git, GitHub, VSCode, Power BI, Streamlit, n8n, Jupyter Notebook</li>
+</ul>
 
-## 🛠️ Tecnologias e Ferramentas
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, TypeScript  
-- **Backend:** Python, PHP, Node.js  
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB, SQL Server  
-- **Data Science & BI:** Power BI, Pandas, NumPy  
-- **DevOps & Cloud:** AWS, Docker  
-- **Outros:** Git, APIs REST
+<h2>📌 Interesses atuais</h2>
+<ul>
+  <li>ETL com Pandas e SQL</li>
+  <li>APIs REST</li>
+  <li>Automação com Python e n8n</li>
+  <li>Dashboards interativos (Power BI & Streamlit)</li>
+  <li>Fundamentos de IA e Machine Learning</li>
+  <li>Banco de dados relacionais e não relacionais</li>
+</ul>
 
----
+<h2>📂 Projetos em andamento</h2>
+<ul>
+  <li><strong>automacoes-python</strong>: scripts úteis para agilizar tarefas</li>
+  <li><strong>etl-dados-pandas</strong>: pipeline de tratamento e análise de dados</li>
+  <li><strong>sistema-financas</strong>: sistema de controle financeiro pessoal</li>
+  <li><strong>mini-ia</strong>: experimentos práticos com IA e Machine Learning</li>
+</ul>
 
-## 📌 Serviços
-- Desenvolvimento Web Completo  
-- Automações com Python  
-- Dashboards e Relatórios Inteligentes  
-- Consultoria Financeira com Análise de Dados
+<h2>📫 Vamos conversar?</h2>
+<ul>
+  <li>🔗 LinkedIn: <a href="https://linkedin.com/in/seu-link-aqui" target="_blank" rel="noopener noreferrer">linkedin.com/in/seu-link-aqui</a></li>
+  <li>💬 E-mail: <a href="mailto:wsdevsoluctions@gmail.com">wsdevsoluctions@gmail.com</a></li>
+  <li>🌐 Portfólio: em breve 🚧</li>
+</ul>
 
----
-
-## 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/wesleysouza](https://linkedin.com/in/wesleysouza)  
-- **GitHub:** [github.com/wesleysouza](https://github.com/wesleysouza)  
-- **E-mail:** wesley@email.com  
-
----
-
-💡 *Sempre aberto a novas oportunidades e parcerias!* 🚀
+<p style="font-style: italic; margin-top: 2rem;">
+💡 <strong>Construindo soluções com propósito, uma linha de código por vez.</strong>
+</p>
