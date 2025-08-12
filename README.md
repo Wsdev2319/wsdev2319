@@ -2,7 +2,7 @@
 Sou Wesley Souza, estudante de Engenharia de Software e apaixonado por transformar ideias em soluções inteligentes que geram impacto real.
 Acredito que código é mais do que tecnologia — é uma ferramenta para simplificar processos, economizar tempo e resolver problemas que importam.
 
-Meu foco está em unir análise de dados, automação e inteligência artificial para criar soluções que sejam eficientes e acessíveis. Não basta apenas programar: quero criar algo que faça diferença.
+Meu foco está em unir análise de dados, automação e inteligência artificial para criar soluções que sejam eficientes e acessíveis. Não basta apenas programar: quero criar algo que faça diferença.  
 
 🚀 Áreas de atuação
 Python Full Stack: criação de soluções completas e escaláveis
