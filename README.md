@@ -1,44 +1,50 @@
-👋 Fala aí, sou o Wesley Souza!
-🎓 Estudante de Engenharia de Software
-💻 Apaixonado por Python, dados, automação e inteligência artificial
+🌟 Sobre mim
+Sou Wesley Souza, estudante de Engenharia de Software e apaixonado por transformar ideias em soluções inteligentes que geram impacto real.
+Acredito que código é mais do que tecnologia — é uma ferramenta para simplificar processos, economizar tempo e resolver problemas que importam.
 
-🚀 Sobre mim
-Sou um entusiasta da tecnologia que está sempre em busca de aprender algo novo e transformar conhecimento em solução. Minha missão é simplificar processos, resolver problemas reais e automatizar tudo o que puder usando código.
+Meu foco está em unir análise de dados, automação e inteligência artificial para criar soluções que sejam eficientes e acessíveis. Não basta apenas programar: quero criar algo que faça diferença.
 
-Atualmente estou focado em desenvolver minhas habilidades como:
+🚀 Áreas de atuação
+Python Full Stack: criação de soluções completas e escaláveis
 
-🔹 Desenvolvedor Python Full Stack
-🔹 Cientista de Dados iniciante (mas curioso e ousado)
-🔹 Engenheiro de Dados em formação
-🔹 Criador de automação e integrações com IA
-🔹 Programador Java em desenvolvimento
+Ciência de Dados (iniciante): exploração, análise e visualização de dados
 
-Gosto de unir lógica, criatividade e propósito para criar projetos que tenham valor de verdade.
+Engenharia de Dados: tratamento e integração de dados para gerar valor
 
-🧠 O que estou observando
-🧩 ETL com Pandas e SQL
-⚙️ Desenvolvimento de APIs REST
-🤖 Automação de processos com Python e n8n
-📊 Dashboards com Power BI e Streamlit
-🧠 Fundamentos de IA e Machine Learning
-🗃️ Engenharia de Banco de Dados (PostgreSQL, MySQL, SQLite)
+Automação e IA: criação de processos inteligentes que economizam tempo
 
-🛠️ Tecnologias que usei
-Linguagens | Bibliotecas/Frameworks | Ferramentas/Plataformas
-Python 🐍 | Pandas, NumPy | Git, VSCode, Streamlit
-Java ☕ | Spring Boot (em estudo) | GitHub, ChatGPT 😄
-SQL | SQLAlchemy | Power BI, n8n, Jupyter
+Java: desenvolvimento de aplicações e serviços robustos
 
-📂 Alguns Projetos (em construção...)
-📦 automacoes-python: scripts úteis para automatizar tarefas do dia a dia
-📊 etl-dados-pandas: pipeline de tratamento de dados usando Python
-💰 sistema-financas: sistema de controle financeiro
-🧠 mini-ia: testes de IA com bibliotecas simples e exemplos didáticos
+🧠 Tecnologias e ferramentas
+Linguagens: Python 🐍 | Java ☕ | SQL
+Bibliotecas & Frameworks: Pandas, NumPy, SQLAlchemy, Spring Boot (em estudo)
+Ferramentas: Git, GitHub, VSCode, Power BI, Streamlit, n8n, Jupyter Notebook
 
-📫 Onde me encontrar
-🔗 LinkedIn:https://www.linkedin.com/in/wesleysouzadavid/  
+📌 Interesses atuais
+ETL com Pandas e SQL
+
+APIs REST
+
+Automação com Python e n8n
+
+Dashboards interativos (Power BI & Streamlit)
+
+Fundamentos de IA e Machine Learning
+
+Banco de dados relacionais e não relacionais
+
+📂 Projetos em andamento
+automacoes-python: scripts úteis para agilizar tarefas
+
+etl-dados-pandas: pipeline de tratamento e análise de dados
+
+sistema-financas: sistema de controle financeiro pessoal
+
+mini-ia: experimentos práticos com IA e Machine Learning
+
+📫 Vamos conversar?
+🔗 LinkedIn: [seu link aqui]
 💬 E-mail: wsdevsoluctions@gmail.com
+🌐 Portfólio: em breve 🚧
 
-"Não quero só programar. Quero impactar vidas com soluções inteligentes, acessíveis e humanas."
-
-⭐ "Construindo soluções com propósito, uma linha de código por vez."
+💡 "Construindo soluções com propósito, uma linha de código por vez."
