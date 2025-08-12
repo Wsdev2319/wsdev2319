@@ -36,7 +36,7 @@ SQL | SQLAlchemy | Power BI, n8n, Jupyter
 🧠 mini-ia: testes de IA com bibliotecas simples e exemplos didáticos
 
 📫 Onde me encontrar
-🔗 LinkedIn:https://www.linkedin.com/in/wesleysouzadavid/
+🔗 LinkedIn:https://www.linkedin.com/in/wesleysouzadavid/  
 💬 E-mail: wsdevsoluctions@gmail.com
 
 "Não quero só programar. Quero impactar vidas com soluções inteligentes, acessíveis e humanas."
