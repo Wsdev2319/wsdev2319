@@ -15,13 +15,12 @@ Meu foco está em unir análise de dados, automação e inteligência artificial
   <li><strong>Ciência de Dados (iniciante)</strong>: exploração, análise e visualização de dados</li>
   <li><strong>Engenharia de Dados</strong>: tratamento e integração de dados para gerar valor</li>
   <li><strong>Automação e IA</strong>: criação de processos inteligentes que economizam tempo</li>
-  <li><strong>Java</strong>: desenvolvimento de aplicações e serviços robustos</li>
 </ul>
 
 <h2>🧠 Tecnologias e ferramentas</h2>
 <ul>
-  <li><strong>Linguagens</strong>: Python 🐍 | Java ☕ | SQL</li>
-  <li><strong>Bibliotecas & Frameworks</strong>: Pandas, NumPy, SQLAlchemy, Spring Boot (em estudo)</li>
+  <li><strong>Linguagens</strong>: Python 🐍 | SQL</li>
+  <li><strong>Bibliotecas & Frameworks</strong>: Pandas, NumPy, SQLAlchemy,</li>
   <li><strong>Ferramentas</strong>: Git, GitHub, VSCode, Power BI, Streamlit, n8n, Jupyter Notebook</li>
 </ul>
 
