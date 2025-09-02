@@ -26,8 +26,9 @@ Sou apaixonado por **Ciência de Dados e Inteligência Artificial**. Transformo 
 ---
 
 ## 📫 Contato
-- LinkedIn: [Seu LinkedIn](link)  
-- Email: [seuemail@dominio.com](mailto:seuemail@dominio.com)  
+- LinkedIn: https://www.linkedin.com/in/wesleysouzadavid/
+- Instagram: https://www.instagram.com/wsdevsoluction/
+- Email: wsdevsoluction@gmail.com  
 
 ---
 
