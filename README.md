@@ -1,35 +1,52 @@
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
-<p align="center">
-  <strong>Ciência de Dados | Inteligência Artificial | Machine Learning</strong>
-</p>
+# 👨‍💻 Desenvolvedor Full Stack | Engenharia de Software
+
+Olá! 👋  
+Sou estudante de **Engenharia de Software** e **Desenvolvedor Full Stack**, com foco em **Python** e **PHP**, atuando na criação de aplicações web, automações de processos e soluções utilizando **Inteligência Artificial**.
 
 ---
 
 ## 🚀 Sobre mim
-Sou apaixonado por **Ciência de Dados e Inteligência Artificial**. Transformo dados em insights estratégicos e desenvolvo soluções inteligentes que impactam negócios e pessoas.  
+
+Tenho interesse em desenvolver sistemas escaláveis, integrações de APIs e aplicações que otimizem processos empresariais e apoiem decisões orientadas por dados.
+
+Busco constantemente aplicar tecnologia para resolver problemas reais, criando soluções eficientes, modernas e inteligentes.
 
 ---
 
-## 💻 Habilidades
-- **Linguagens:** Python, SQL, R  
-- **Machine Learning & IA:** Scikit-learn, TensorFlow, PyTorch, NLP, Deep Learning  
-- **Visualização de Dados:** Matplotlib, Seaborn, Plotly, Power BI  
-- **Dados & Análise:** Pandas, NumPy, Data Cleaning, EDA  
+## 🧠 Tecnologias e Áreas de Atuação
+
+✔ Desenvolvimento Web Full Stack  
+✔ Python e PHP  
+✔ APIs REST e Integração de Sistemas  
+✔ Bancos de Dados SQL e NoSQL  
+✔ Automações de Processos  
+✔ Inteligência Artificial Aplicada  
 
 ---
 
-## 📂 Projetos em destaque
-- **[Projeto de Previsão de Vendas](link)** – Modelo preditivo usando Machine Learning para otimização de estoque.  
-- **[Análise de Sentimento em Redes Sociais](link)** – NLP para análise de feedback de clientes.  
-- **[Dashboard Interativo de Dados](link)** – Visualização de KPIs usando Power BI e Plotly.  
+## 💻 Principais Competências
+
+- Desenvolvimento Backend e Frontend  
+- Criação de aplicações web completas  
+- Integração de APIs  
+- Automação com Python  
+- Sistemas orientados a dados  
+- Desenvolvimento de soluções inteligentes com IA  
+
+---
+
+## 🎯 Objetivo Profissional
+
+🚀 Busco oportunidades como **Desenvolvedor Full Stack** e projetos **freelance**, onde possa gerar valor através da tecnologia, contribuindo com soluções escaláveis e inovadoras.
 
 ---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/wesleysouzadavid/
-- Instagram: https://www.instagram.com/wsdevsoluction/
-- Email: wsdevsoluction@gmail.com  
+
+- 💼 LinkedIn: *(www.linkedin.com/in/wesleysouzadavid)*
+- 📧 Email: *(wsdevsoluction@gmail.com)*
+
 
 ---
 
-<p align="center">“Transformando dados em decisões inteligentes.”</p>
+⭐ Sempre aprendendo, construindo e evoluindo como desenvolvedor.
